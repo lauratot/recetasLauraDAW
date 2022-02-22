@@ -82,7 +82,7 @@ header h1 {
 	margin: 0px 0px 20px 230px;
 	padding: 0px 10px 0px 10px;
 	width: 450px;
-	height: 300px;
+	height: 350px;
 	border: 1px solid #B2B9C4;
 	background: #F1F2EF url(img/leave_piece_1.gif) no-repeat left top;
 	}
@@ -94,7 +94,7 @@ header h1 {
 	top: 400px;
 	left: 0px;
 	}
- .wrapper { 
+.wrapper { 
 	font: 9px verdana, sans-serif;
 	padding: 0px; 
 	margin-top: 20px; 
@@ -103,12 +103,13 @@ header h1 {
 
 .navigation ul {
 	margin: 0px;
-	padding: 0px;
+	padding: 5px;
 	}
 .navigation li {
 	line-height: 2.5ex; 
 	list-style-type: none;
-	padding-top: 5px; 
+	padding-top: 5px;
+	padding-right: 5px; 
 	margin-bottom: 5px;
 	}
 
